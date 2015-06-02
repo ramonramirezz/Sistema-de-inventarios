@@ -1,0 +1,24 @@
+c:\users\desarrollo\documents\visual studio 2013\Projects\Carsolio\Carsolio\bin\Carsolio.dll.config
+c:\users\desarrollo\documents\visual studio 2013\Projects\Carsolio\Carsolio\bin\Carsolio.dll
+c:\users\desarrollo\documents\visual studio 2013\Projects\Carsolio\Carsolio\bin\Carsolio.pdb
+c:\users\desarrollo\documents\visual studio 2013\Projects\Carsolio\Carsolio\obj\Debug\Carsolio.csprojResolveAssemblyReference.cache
+c:\users\desarrollo\documents\visual studio 2013\Projects\Carsolio\Carsolio\obj\Debug\Carsolio.dll
+c:\users\desarrollo\documents\visual studio 2013\Projects\Carsolio\Carsolio\obj\Debug\Carsolio.pdb
+F:\Carsolio\Carsolio\bin\Carsolio.dll.config
+F:\Carsolio\Carsolio\bin\Carsolio.dll
+F:\Carsolio\Carsolio\bin\Carsolio.pdb
+F:\Carsolio\Carsolio\obj\Debug\Carsolio.csprojResolveAssemblyReference.cache
+F:\Carsolio\Carsolio\obj\Debug\Carsolio.dll
+F:\Carsolio\Carsolio\obj\Debug\Carsolio.pdb
+I:\Carsolio\Carsolio\bin\Carsolio.dll.config
+I:\Carsolio\Carsolio\bin\Carsolio.dll
+I:\Carsolio\Carsolio\bin\Carsolio.pdb
+I:\Carsolio\Carsolio\obj\Debug\Carsolio.dll
+I:\Carsolio\Carsolio\obj\Debug\Carsolio.pdb
+I:\Carsolio\Carsolio\obj\Debug\Carsolio.csprojResolveAssemblyReference.cache
+E:\Carsolio\Carsolio\bin\Carsolio.dll.config
+E:\Carsolio\Carsolio\bin\Carsolio.dll
+E:\Carsolio\Carsolio\bin\Carsolio.pdb
+E:\Carsolio\Carsolio\obj\Debug\Carsolio.csprojResolveAssemblyReference.cache
+E:\Carsolio\Carsolio\obj\Debug\Carsolio.dll
+E:\Carsolio\Carsolio\obj\Debug\Carsolio.pdb
