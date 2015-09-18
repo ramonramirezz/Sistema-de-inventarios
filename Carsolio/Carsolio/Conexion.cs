@@ -9,7 +9,7 @@ namespace Carsolio
 {
      public class Conexion
      {
-          public static MySqlConnection con = new MySqlConnection("Server=localhost,database=carsolio,Uid=root,Pwd=;");
+          public static MySqlConnection con;
           public static MySqlCommand cmd;
           public static MySqlDataReader dr;
 
